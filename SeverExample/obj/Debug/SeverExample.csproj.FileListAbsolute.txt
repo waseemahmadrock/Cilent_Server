@@ -1,0 +1,6 @@
+c:\users\glab\documents\visual studio 2012\Projects\SeverExample\SeverExample\bin\Debug\SeverExample.exe.config
+c:\users\glab\documents\visual studio 2012\Projects\SeverExample\SeverExample\bin\Debug\SeverExample.exe
+c:\users\glab\documents\visual studio 2012\Projects\SeverExample\SeverExample\bin\Debug\SeverExample.pdb
+c:\users\glab\documents\visual studio 2012\Projects\SeverExample\SeverExample\obj\Debug\SeverExample.csprojResolveAssemblyReference.cache
+c:\users\glab\documents\visual studio 2012\Projects\SeverExample\SeverExample\obj\Debug\SeverExample.exe
+c:\users\glab\documents\visual studio 2012\Projects\SeverExample\SeverExample\obj\Debug\SeverExample.pdb
